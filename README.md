@@ -2,9 +2,6 @@
 
 A new Flutter project.
 ![The San Juan Mountains are beautiful!](https://i.postimg.cc/J0RNyD9D/Screenshot-2023-04-09-12-08-41-179-com-example-barnameneviss.jpg "San Juan Mountains")
-![The San Juan Mountains are beautiful!](https://i.postimg.cc/J0RNyD9D/Screenshot-2023-04-09-12-08-41-179-com-example-barnameneviss.jpg "San Juan Mountains")
-![The San Juan Mountains are beautiful!](https://i.postimg.cc/J0RNyD9D/Screenshot-2023-04-09-12-08-41-179-com-example-barnameneviss.jpg "San Juan Mountains")
-![The San Juan Mountains are beautiful!](https://i.postimg.cc/J0RNyD9D/Screenshot-2023-04-09-12-08-41-179-com-example-barnameneviss.jpg "San Juan Mountains")
 ## Getting Started
 
 This project is a starting point for a Flutter application.
